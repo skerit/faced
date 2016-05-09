@@ -7,7 +7,7 @@
     "example": "examples"
   },
   "dependencies": {
-    "opencv": "~3.0.0",
+    "opencv": "^5.*",
     "underscore": "~1.4.4"
   },
   "devDependencies": {},
